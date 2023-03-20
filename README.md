@@ -2,7 +2,7 @@
 
 To view the project live [Click Here](https://enable-it-assignment.web.app/).
 
-![ezgif com-video-to-gif](https://user-images.githubusercontent.com/59175412/224564075-740613b2-9136-47c4-b6d7-8d236bc247e3.gif)
+![2023-03-21 01-28-22](https://user-images.githubusercontent.com/59175412/226452501-dbc47b39-7302-430e-9f8d-3c3829976178.gif)
 
 
 ## Technologies Used
