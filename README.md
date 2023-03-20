@@ -1,6 +1,6 @@
 # Enable-IT-Task -- Pagination feature in React.js
 
-To view the project live [Click Here](https://ecommerce-app-b2aa6.web.app/).
+To view the project live [Click Here](https://enable-it-assignment.web.app/).
 
 ![ezgif com-video-to-gif](https://user-images.githubusercontent.com/59175412/224564075-740613b2-9136-47c4-b6d7-8d236bc247e3.gif)
 
