@@ -1,0 +1,30 @@
+#navbar{
+    background-color: #F7F1E5;
+}
+#nav-main{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+#nav-img{
+    width: 100px;
+}
+#nav-p{
+
+}
+#nav-btn{
+    padding: 5px;
+    background-color: #0072B1;
+    border: none;
+    color: white;
+    cursor: pointer;
+    transition: all .2s;
+}
+#nav-btn:hover{
+    transform: scale(1.1);
+}
+#nav-a{
+    text-decoration: none;
+    color: white;
+}
